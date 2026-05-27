@@ -1,0 +1,17 @@
+{
+  "id": "DSP_Texas/TMS320LF2406PZ:TMS320LF2406PZ",
+  "name": "TMS320LF2406PZ",
+  "library": "DSP_Texas",
+  "file": "DSP_Texas.kicad_symdir/TMS320LF2406PZ.kicad_sym",
+  "description": "16bit DSP Controller 32Kx16B Flash 2.5Kx16B RAM, Obsolete NRND, PQFP-100",
+  "datasheet": "http://www.ti.com/lit/ds/symlink/tms320lf2406.pdf",
+  "keywords": "16BIT DSP TMS320 Obsolete",
+  "footprint": "",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-dsp-texas@master/parts/TMS320LF2406PZ/",
+  "part_path": "parts/TMS320LF2406PZ",
+  "symbol_file": "parts/TMS320LF2406PZ/TMS320LF2406PZ.kicad_sym",
+  "source_library": "DSP_Texas.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:03:43.378Z"
+}
